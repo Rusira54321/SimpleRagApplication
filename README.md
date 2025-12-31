@@ -161,6 +161,6 @@ LangChain Runnables
 👤 Author
 ```
 Rusira Dinujaya
-Software Engineering Intern Aspirant
+Software Engineering Intern Zebra technologies
 Interested in AI, NLP & Backend Development
 ```
